@@ -10,7 +10,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Dontdisturbmeu'>Venkat Raju</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Nenu_Evari_Ni'>Nenu_Evari_Ni</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -431,13 +431,13 @@ BOT WORKING PROPERLY"""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Dontdisturbmeu'>Venkat Raju</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Nenu_Evari_Ni'>Nenu_Evari_Ni</a>
 
--Dev 2 <a href='https://t.me/Dontdisturbmeu'>Venkat Raju</a>
+-Dev 2 <a href='https://t.me/Nenu_Evari_Ni'>Nenu_Evari_Ni</a>
 
--Dev 3 <a href='https://t.me/Dontdisturbmeu>Venkat Raju</a>
+-Dev 3 <a href='https://t.me/Nenu_Evari_Ni>Nenu_Evari_Ni</a>
 
-- Dev 4 <a href='https://t.me/Dontdisturbmeu'>TEAM Venkat Raju</a>
+- Dev 4 <a href='https://t.me/Nenu_Evari_Ni'>TEAM Nenu_Evari_Ni</a>
 """
 
     RENAME_TXT = """
